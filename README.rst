@@ -9,9 +9,9 @@ A Flask template for cookiecutter_.
     :target: https://travis-ci.org/sloria/cookiecutter-flask
     :alt: Build Status
 
-.. image:: https://img.shields.io/badge/calver-YY.MINOR.MICRO-22bfda.svg
-    :target: http://calver.org
-    :alt: CalVer
+.. image:: https://img.shields.io/badge/Platform-Windows-lightgrey.svg
+    :target: 
+    :alt: 
 
 
 Use it now
