@@ -10,8 +10,7 @@ A Flask template for cookiecutter_.
     :alt: Build Status
 
 .. image:: https://img.shields.io/badge/Platform-Windows-lightgrey.svg
-    :target: 
-    :alt: 
+    :alt: Platform
 
 
 Use it now
