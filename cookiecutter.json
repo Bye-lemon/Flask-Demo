@@ -3,7 +3,7 @@
 	"email": "Bye_lemon@mail.dlut.edu.cn",
 	"github_username": "Bye-lemon",
 	"project_name": "My Flask App",
-	"app_name": "myflaskapp",
+	"app_name": "app",
 	"project_short_description": "A flasky app.",
 	"use_pipenv": ["yes", "no"]
 }
