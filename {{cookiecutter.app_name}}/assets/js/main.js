@@ -5,7 +5,7 @@
  */
 
 // JavaScript modules
-require('jquery');
+require('expose-loader?$!jquery');
 require('font-awesome-webpack');
 require('popper.js');
 require('bootstrap');

@@ -18,7 +18,7 @@ Use it now
 ::
 
     $ pip install cookiecutter
-    $ cookiecutter https://github.com/sloria/cookiecutter-flask.git
+    $ cookiecutter https://github.com/Bye-lemon/Flask-Demo.git
 
 You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.
 
@@ -71,6 +71,13 @@ BSD licensed.
 
 Changelog
 ---------
+19.0.0 (06/29/2019)
+*******************
+
+- Export $ as a global variable.
+- Add support for MySQL.
+- Upgrade Node dependencies.
+
 
 18.0.0 (09/09/2018)
 *******************
